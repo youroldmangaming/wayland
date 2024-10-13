@@ -1,3 +1,5 @@
+#This is to setup RDP into Wayland
+
 apt install weston
 
 weston --backend=rdp-backend.so
